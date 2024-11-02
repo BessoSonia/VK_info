@@ -3,10 +3,8 @@ import json
 import os
 
 
-token = 'vk1.a.N5Y7h00bQ48qMnKnrBahW_lCiVvyEDhEpoLq9Sar8NZrb1xNBKYw249DDyxT80Nf6XR5KqSGSus3-HS2gmCwzg_86tQ3qeXo0iEOgwnGPemy9jmLueK9u5-mJ_urAacaTaA-tfwg2BJQorIg6oTxlLEjjh9KUJlQMCoaiO__1NTb534wgGmM2kNWkIIaXF1L'
-# token = os.getenv("VK_ACCESS_TOKEN")
+token = os.getenv("VK_ACCESS_TOKEN")
 version = 5.131
-# user_id = 172531131
 
 
 def get_user_data(user_id):
