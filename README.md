@@ -17,30 +17,30 @@
    cd VK_info
 
 2. **Создайте переменную окружения**
-Запустите командную строку от имени администратора
+   Запустите командную строку от имени администратора
 
-Windows:
-   ```bash
-   set VK_ACCESS_TOKEN=ваш_токен_доступа
-   ```
+   Windows:
+      ```bash
+      set VK_ACCESS_TOKEN=ваш_токен_доступа
+      ```
 
-Linux:
-   ```bash
-   export VK_ACCESS_TOKEN="ваш_токен_доступа"
-   ```
+   Linux:
+      ```bash
+      export VK_ACCESS_TOKEN="ваш_токен_доступа"
+      ```
 
 3. **Запуск приложения**
 
-Запустите приложение
+   Запустите приложение
 
-Windows:
-   ```bash
-   python путь_до_папки_репозитория/vk_info.py
-   ```
+   Windows:
+      ```bash
+      python путь_до_папки_репозитория/vk_info.py
+      ```
 
-Linux:
-   ```bash
-   python путь_до_папки_репозитория/vk_info.py
-   ```
+   Linux:
+      ```bash
+      python путь_до_папки_репозитория/vk_info.py
+      ```
 
 
